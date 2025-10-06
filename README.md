@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <a href="https://tasrifkhanportfolio.netlify.app/" target="_blank">
+  <a href="https://tasrifportfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
   <a href="https://www.linkedin.com/in/md-tasrif-khan-887771364/" target="_blank">

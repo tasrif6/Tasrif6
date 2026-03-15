@@ -22,6 +22,7 @@
 <div align="center">
 <a href="tasrif.k.56@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&color=0077B5&logoColor=white" height="25" alt="gmail logo" />
+  <h4 align="center">E-mail: tasrif.k.56@gmail.com</h4>
 </a>
 </div>
 

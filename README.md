@@ -8,7 +8,7 @@
   <a href="https://tasrif-khan.netlify.app/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
-  <a href="https://www.linkedin.com/in/md-tasrif-khan-887771364/" target="_blank">
+  <a href="[https://www.linkedin.com/in/md-tasrif-khan-887771364/](https://www.linkedin.com/in/md-tasrif-khan-70b11742a/)" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@MdTasrifKhan" target="_blank">
